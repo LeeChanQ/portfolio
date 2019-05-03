@@ -56,7 +56,7 @@ Sketch | |  | O | | |
 ### 사랑먹고 잉꼬 앱 개발
 일시 : 2019. 04. 15 ~ 05. 21
 <div style="width: 150px;margin:0 auto;">
-<img src="img/inggo.jpg"></div>
+<img src="img/inggo.jpeg"></div>
 
 ### 노인 보호 IOT
 일시 : 2019. 04. 09 ~ 04. 28
